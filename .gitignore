@@ -4,3 +4,10 @@
 *.ptx
 *.cubin
 *.fatbin
+
+/.vs
+/obj
+/bin
+*.vs
+*obj
+*bin
